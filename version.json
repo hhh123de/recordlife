@@ -1,1 +1,1 @@
-{"versionCode": 12, "versionName": "1.9", "apkUrl": "颤抖吧周末.apk", "note": "1.9 修复：轮播静止时不再露出上个月（归位改用视口宽度计算）"}
+{"versionCode": 13, "versionName": "1.9", "apkUrl": "颤抖吧周末.apk", "note": "1.9 修复：左右滑动切月闪屏（同步归位 + 滑动期抑制阴影 + 去除强制 snap-stop）"}
