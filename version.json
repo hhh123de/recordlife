@@ -1,1 +1,1 @@
-{"versionCode": 13, "versionName": "1.9", "apkUrl": "颤抖吧周末.apk", "note": "1.9 修复：左右滑动切月闪屏（同步归位 + 滑动期抑制阴影 + 去除强制 snap-stop）"}
+{"versionCode": 15, "versionName": "2.1", "apkUrl": "android-build/qimu-merged-v2.apk", "note": "优化月历翻页与事件详情跳转"}
